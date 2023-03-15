@@ -1,0 +1,25 @@
+/* .contenedor-delcontenedor-de-img{
+    display: flex;
+    justify-content: center;
+    width: 100%;
+    padding-top: 50px;
+}
+.images-anime-container{
+    width: 600px;
+    display: flex;
+    justify-content: center;
+    height: 400px;
+    
+}
+.images-anime-container .img-anime{
+    width: 0;
+    flex-grow: 1;
+    object-fit: cover;
+    opacity: .8;
+    transition: 0.5s;
+    object-position: center;
+}
+.images-anime-container .img-anime:hover{
+    width: 250px;
+    opacity: 1;
+} */
